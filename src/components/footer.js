@@ -101,7 +101,7 @@ const Footer = () => {
         </StyledSocialList>
       </StyledSocial>
       <StyledMetadata tabindex="-1">
-        {/* <StyledGitHubLink
+        <StyledGitHubLink
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>Template by Brittany Chiang</div>
@@ -118,7 +118,7 @@ const Footer = () => {
               </span>
             </StyledGitHubInfo>
           )}
-        </StyledGitHubLink> */}
+        </StyledGitHubLink>
       </StyledMetadata>
     </StyledContainer>
   );
