@@ -8,6 +8,5 @@ url: 'https://www.github.com/jabinx92'
 ---
 
 - Self-taught courses on Udemy (Complete Javascript Course, Complete React Course, Javascript the Weird Parts, Algorithms and Data Structures)
-- Codewars, Leetcode, Coding Challenges
+- Codewars, Leetcode
 - Myers Briggs Personality - INTP - Logician
-
