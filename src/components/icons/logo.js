@@ -5,3 +5,4 @@ const IconLogo = () => (
 );
 
 export default IconLogo;
+//
