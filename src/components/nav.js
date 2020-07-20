@@ -294,7 +294,7 @@ class Nav extends Component {
                 <CSSTransition classNames={fadeDownClass} timeout={timeout}>
                   <div style={{ transitionDelay: `${isHome ? navLinks.length * 100 : 0}ms` }}>
                     <StyledResumeButton
-                      href="https://jabinx92.github.io/react-resume/"
+                      href="/resume.pdf"
                       target="_blank"
                       rel="nofollow noopener noreferrer">
                       Resume

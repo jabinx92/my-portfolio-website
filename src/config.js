@@ -1,18 +1,18 @@
 module.exports = {
   siteTitle: 'Jonathan Won | Software Engineer',
   siteDescription:
-    'Jonathan Won is a software engineer based in San Francisco, CA who specializes in building exceptional websites, applications, and everything in between.',
+    'Brittany Chiang is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
-    'Jonathan Won, Jonathan, Won, jonathanwon, software engineer, front-end engineer, web developer, javascript',
-  siteUrl: 'https://jonathanwon.com',
+    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
+  siteUrl: 'https://brittanychiang.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Jonathan Won',
-  location: 'San Francisco, CA',
+  name: 'Brittany Chiang',
+  location: 'Boston, MA',
   email: 'jabinx92@gmail.com',
   github: 'https://github.com/jabinx92',
-  twitterHandle: '@twitter',
+  twitterHandle: '@bchiang7',
   socialMedia: [
     {
       name: 'GitHub',
@@ -58,9 +58,9 @@ module.exports = {
   navHeight: 100,
 
   colors: {
-    green: '#000099',
-    navy: '#000000',
-    darkNavy: '#000099',
+    green: '#64ffda',
+    navy: '#0a192f',
+    darkNavy: '#020c1b',
   },
 
   srConfig: (delay = 200) => ({
