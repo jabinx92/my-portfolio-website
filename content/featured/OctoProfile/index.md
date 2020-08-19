@@ -7,7 +7,7 @@ external: 'https://github.com/jabinx92/lol-id-project'
 tech:
   - React
   - Chart.js
-  - API
+  - League of Legends Web API
   - Sass
 showInProjects: true
 ---
