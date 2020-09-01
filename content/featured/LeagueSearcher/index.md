@@ -1,13 +1,13 @@
 ---
 date: '3'
 title: 'League Searcher'
-cover: './league-searcher.png'
+cover: './league_searcher.png'
 github: 'https://github.com/jabinx92/lol-id-project'
-external: 'https://github.com/jabinx92/lol-id-project'
+external: 'https://leaguesearcher.herokuapp.com/'
 tech:
   - React
   - Chart.js
-  - League of Legends Web API
+  - API
   - Sass
 showInProjects: true
 ---

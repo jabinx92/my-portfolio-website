@@ -1,6 +1,6 @@
 ---
 title: 'Hello World,'
-name: 'Jonathan Won'
+name: 'I am Jonathan Won'
 subtitle: 'I build things for the web.👾🤖'
 buttonText: 'Get In Touch'
 ---

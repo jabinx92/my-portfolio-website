@@ -3,10 +3,10 @@ title: 'About Me'
 avatar: './IMG_2186.jpg'
 skills:
   - JavaScript (ES6+)
-  - React
   - HTML & CSS
-  - Node.js
+  - React
   - Wix
+  - Node.js
 ---
 
 Hello! I'm Johnny, a software engineer based in San Francisco, CA.
