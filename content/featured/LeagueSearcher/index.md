@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-A nicer look at your League of Legends profile and match history stats fetched via API. Includes data visualizations of your top champions played, current rank, and game stats (wins, losses, win percentage).
+A nicer look at your profile and match history stats fetched via [League of Legends API](https://developer.riotgames.com/). Includes data visualizations of your top champions played, current rank, and game stats (wins, losses, win percentage).
