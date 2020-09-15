@@ -10,7 +10,7 @@ tech:
   - API
   - Sass
   - Google Firebase
-showInProjects: True
+showInProjects: true
 ---
 
 A nicer look at your profile and match history stats fetched via [League of Legends API](https://developer.riotgames.com/). Includes data visualizations of your top champions played, current rank, and game stats (wins, losses, win percentage).
