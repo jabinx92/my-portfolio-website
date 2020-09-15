@@ -1,3 +1,5 @@
+Note to self - gatsby build + firebase deploy = :)
+
 ## 🛠 Installation & Set Up
 
 1. Install the Gatsby CLI
