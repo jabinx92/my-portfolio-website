@@ -1,7 +1,6 @@
 ---
 date: '2017-01-09'
 title: 'BetterView Window Cleaners'
-# github: 'https://github.com/jabinx92'
 external: 'https://jabinx92.wixsite.com/betterview'
 tech:
   - Wix

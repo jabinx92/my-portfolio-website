@@ -10,7 +10,7 @@ tech:
   - Atom
   - iTerm2
   - Hyper
-showInProjects: true
+showInProjects: false
 ---
 
 A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/) and [npm](https://github.blog/2020-04-15-npm-has-joined-github/).

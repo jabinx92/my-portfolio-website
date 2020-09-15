@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2020-8-15'
 title: 'League Searcher'
 cover: './league_searcher.png'
 github: 'https://github.com/jabinx92/lol-id-project'
