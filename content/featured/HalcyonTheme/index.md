@@ -10,7 +10,6 @@ tech:
   - Atom
   - iTerm2
   - Hyper
-company: Website
 showInProjects: true
 ---
 

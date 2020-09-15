@@ -10,7 +10,6 @@ tech:
   - API
   - Sass
   - Google Firebase
-company: Website
 showInProjects: true
 ---
 
