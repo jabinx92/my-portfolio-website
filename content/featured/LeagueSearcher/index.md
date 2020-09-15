@@ -9,6 +9,7 @@ tech:
   - Chart.js
   - API
   - Sass
+  - Google Firebase
 showInProjects: true
 ---
 
