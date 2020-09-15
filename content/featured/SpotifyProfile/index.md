@@ -9,6 +9,7 @@ tech:
   - Node.js
   - Express
   - Spotify Web API
+company: Website
 showInProjects: true
 ---
 
