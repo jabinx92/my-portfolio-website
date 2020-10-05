@@ -3,7 +3,7 @@ date: '3'
 title: 'League Searcher'
 cover: './league_searcher.png'
 github: 'https://github.com/jabinx92/lol-id-project'
-external: 'https://league-searcher-f6764.web.app/'
+external: 'https://league-search.herokuapp.com/'
 tech:
   - React
   - Chart.js
