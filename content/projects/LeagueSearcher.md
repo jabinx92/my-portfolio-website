@@ -9,7 +9,7 @@ tech:
   - Chart.js
   - API
   - Sass
-  - Google Firebase
+  - Heroku Deploy
 company: Website
 showInProjects: false
 ---
