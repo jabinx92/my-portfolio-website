@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-Note to jabinx92 - gatsby build + firebase deploy = deploys current version to google firebase
-=======
-Note to self - gatsby build + firebase deploy = :)
 
-> > > > > > > 1e6bd02b62dc95f08f25ce7206a846463f772cce
+Note to jabinx92 - gatsby build + firebase deploy = deploys current version to google firebase
+
 
 ## 🛠 Installation & Set Up
 
