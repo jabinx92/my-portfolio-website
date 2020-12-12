@@ -9,7 +9,7 @@ tech:
   - Javascript
   - CSS
 company: Website
-showInProjects: true
+showInProjects: false
 ---
 
 A web messenger app for messenging with friends. Sign in with a google account, create new chat rooms, and view recent messages. Built with Redux to easily manage state.
