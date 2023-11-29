@@ -5,11 +5,11 @@ skills:
   - JavaScript (ES6+)
   - HTML & CSS
   - React
-  - Wix
   - Node.js
+  - Wix
 ---
 
-Hello! I'm Johnny, a software engineer based in San Francisco, CA.
+Hello! I'm Johnny, a software engineer currently working at Gap Inc. based in San Francisco, CA. 
 
 I enjoy creating things on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide functionality, performant experiences.
 
