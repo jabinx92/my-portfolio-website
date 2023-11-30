@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Multi Mini Projects'
-cover: './menu.png'
+cover: './menu.jpg'
 github: 'https://github.com/jabinx92/react-projects-master-final'
 external: 'https://jabinx92.github.io/react-projects-master-final/'
 tech:

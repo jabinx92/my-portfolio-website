@@ -1,7 +1,7 @@
 ---
 date: '2020-08-15'
 title: 'League Searcher'
-cover: './league_searcher.png'
+cover: './league_searcher.jpg'
 github: 'https://github.com/jabinx92/lol-id-project'
 external: 'https://league-search.herokuapp.com/'
 tech:
